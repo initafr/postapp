@@ -1,0 +1,18 @@
+{
+  "python.linting.pylintEnabled": false,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "python.formatting.provider": "autopep8",
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "python.pythonPath": "/Users/afr/.local/share/virtualenvs/postapi-L1Nw46vn/bin/python"
+}
