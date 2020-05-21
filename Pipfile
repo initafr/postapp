@@ -10,7 +10,7 @@ autopep8 = "*"
 djangorestframework = "==3.8.2"
 psycopg2 = "*"
 psycopg2-binary = "*"
-django = "==2.1.2"
+django = "==2.2.10"
 
 [requires]
 python_version = "3.7"
