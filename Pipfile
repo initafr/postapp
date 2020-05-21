@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-djangorestframework = "==3.8.2"
+djangorestframework = "==3.9.1"
 psycopg2 = "*"
 psycopg2-binary = "*"
 django = "==2.2.10"
